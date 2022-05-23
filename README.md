@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dbyalkov
-- 👀 I’m interested in becoming a software engineer.
+- 👀 I’m on the path of becoming a software engineer.
 - 🌱 I’m currently learning C#.
 
 <!---
